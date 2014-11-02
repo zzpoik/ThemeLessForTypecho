@@ -351,9 +351,9 @@ h6 {
   font-family: "Arvo", Georgia, serif;
 }
 h1 {
-  line-height: 71.03999999999999px;
-  font-size: 48px;
-  font-size: 4.8rem;
+  line-height: 55px;
+  font-size: 32px;
+  font-size: 3.2rem;
 }
 h2 {
   line-height: 50.32px;
@@ -534,9 +534,9 @@ article {
 }
 article .title {
   color: #404040;
-  line-height: 56.24px;
-  font-size: 38px;
-  font-size: 3.8rem;
+  line-height: 40px;
+  font-size: 25px;
+  font-size: 2.5rem;
   font-weight: 700;
 }
 article .title a {
